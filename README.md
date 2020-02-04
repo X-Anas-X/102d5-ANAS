@@ -1,4 +1,4 @@
-# 102d5-ANAS
+# Growth mindset
  _My name is Anas Zain. I am  from Syria_
 ## Growth mindset in my opinion is the ability to develop yourself through **effort** and **experince**; facing challenges and never *giving up* on your dreams.
  ![mind](https://purepng.com/public/uploads/medium/brain-education-help-idea-knowledge-mind-vjg.png)
