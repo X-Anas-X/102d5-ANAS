@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Git-Tutorial
 
@@ -6,11 +7,19 @@ _Anas K Zain_
 # Git-Tutorial:
 
 ##Introduction:
+=======
+# Git-Tutorial
+
+## Introduction:
+>>>>>>> 78394d063ab52f89acfe602f2e603de981792f6b
 - My name is _Anas_. I am from syria. I studied Mechanical Engineering and graduated from the LTUC.
 - I am 23 years old and I am studying codding currently.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 78394d063ab52f89acfe602f2e603de981792f6b
 **THe Uses Of Git**
 
 ### Snapshots:
@@ -26,7 +35,13 @@ _Anas K Zain_
 
 ##### You can find more information and tutorials through [Git guid](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png).
 
+<<<<<<< HEAD
 
 
 ###### My repos:
 - _**[repos](https://github.com/X-Anas-X/README.md)**_
+=======
+###### My repos:
+- [repos](https://github.com/X-Anas-X/README.md)
+
+>>>>>>> 78394d063ab52f89acfe602f2e603de981792f6b
