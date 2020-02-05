@@ -1,7 +1,7 @@
 
 # Git-Tutorial
 
-_Anas Zain_
+_Anas K Zain_
 
 # Git-Tutorial:
 

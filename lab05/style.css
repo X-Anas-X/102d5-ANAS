@@ -1,18 +1,43 @@
 
 h1 {
     text-align: center;
+    text-shadow: 3px 2px red;
 }
 
 nav ul li {
     background-color: aqua;
     display: inline;
-    padding: 10% 10% 10% 
-
-
+  
     
+    }
+    body {
+        background-color: teal
     }
 
     img {
         margin-left: 400px;
         margin-right: 500px;
     }
+
+    li a {
+        display: block;
+       color: teal;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+
+
+    }
+    li a:hover{
+        background-color: turquoise;
+    }
+ul li a{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+
+
+}

@@ -6,3 +6,4 @@
 * As for me; starting with what I am good at would be the best way to start my journy in developing myself.
 * I always keep my dream of being a software developer as a huge reminder in my long journy to keep me from giving up.
 * Accepting the fact that I will face many obstacles and challenges during my long journy and trying my best to keep my base.
+
